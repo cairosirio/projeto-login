@@ -88,9 +88,9 @@ div.campo > label {
 }
 
 div > span {
-    display: block;
+    display: inline-block;
     color: white;
-    padding: 5px;
+    padding: 1px;
     font-size: 2em;
     width: 40px;
     
@@ -104,7 +104,7 @@ div.campo > input {
     border-radius: 5px;
     padding: 4px;
 
-    transform: translateY(-10px);
+    transform: translateY(-6px);
 
 }
 
